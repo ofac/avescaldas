@@ -1,6 +1,19 @@
+
+main {
+    overflow-x: hidden;
+}
+
 .container-fluid.container-p0 {
     margin: 0px;
     padding: 0;
+}
+
+.container-fluid .row .col-md-6 {
+    padding: 0;
+}
+
+.col-md-6.content {
+    padding: 2rem !important;
 }
 
 header nav.bg-green,
@@ -16,6 +29,17 @@ a.btn-green {
     max-height: 600px;
     object-fit: cover;
 }
+
+.owl-dots {
+    margin-top: -30px !important;
+    position: relative;
+    z-index: 9999;
+}
+
+.owl-dots .owl-dot.active span {
+    background-color: #82a825 !important;
+}
+
 
 footer {
     background-color: #82a825;
