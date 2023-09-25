@@ -19,9 +19,10 @@ $(document).ready(function () {
     })
 
     $('.owl-carousel').owlCarousel({
-        loop:true,
-        margin:10,
-        nav:false,
+        loop: true,
+        margin: 10,
+        autoplay: true,
+        nav: false,
         responsive:{
             0:{
                 items:1
