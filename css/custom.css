@@ -6,6 +6,33 @@ main {
     overflow-x: hidden;
 }
 
+a#proyecto,
+a#ubicacion,
+a#listado,
+a#sitios,
+a#fotografias {
+    border: 2px solid red;
+    position: absolute;
+    visibility: hidden;
+    z-index: 9999;
+}
+
+a#proyecto {
+    top: 604px;
+}
+a#ubicacion {
+    top: 1236px;
+}
+a#listado {
+    top: 1804px;
+}
+a#sitios {
+    top: 2562px;
+}
+a#fotografias {
+    top: 3016px;
+}
+
 .container-fluid.container-p0 {
     margin: 0px;
     padding: 0;
@@ -41,6 +68,24 @@ a.btn-green {
 
 .owl-dots .owl-dot.active span {
     background-color: #82a825 !important;
+}
+
+
+.content-map {
+    position: relative;
+}
+
+.content-map .info {
+    background-color: #0006;
+    color: #fff;
+    top: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.content-map .info h2 {
+    margin-top: 240px;
 }
 
 

@@ -1,5 +1,10 @@
 $(document).ready(function () {
 
+    $('.btn-light').click(function (e) { 
+        e.preventDefault()
+        $(this).parent().hide()
+    })
+
     $('.owl-carousel').owlCarousel({
         loop:true,
         margin:10,
