@@ -1,7 +1,8 @@
 $(document).ready(function () {
 
-
+     //https://api.jsonbin.io/v3/b/6511fcc70574da7622b048d8
     $.getJSON('json/menu.json', function(jd) {
+        //$('.nav-item a.option1').text(jd.record.option1)
         $('.nav-item a.option1').text(jd.option1)
         $('.nav-item a.option2').text(jd.option2)
         $('.nav-item a.option3').text(jd.option3)
