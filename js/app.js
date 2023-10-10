@@ -1,7 +1,8 @@
 $(document).ready(function () {
 
-     //https://api.jsonbin.io/v3/b/6511fcc70574da7622b048d8
-    $.getJSON('json/info.json', function(jd) {
+     //$url = https://api.jsonbin.io/v3/b/6511fcc70574da7622b048d8
+     $url = "json/info.json"
+    $.getJSON($url, function(jd) {
         //$('.nav-item a.option1').text(jd.record.menu.option1)
         // Top Menu
         $('.nav-item a.option1').text(jd.menu.option1)
