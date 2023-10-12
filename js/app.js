@@ -21,7 +21,7 @@ $(document).ready(function () {
          // Content Section 3
          $('.section3 h2').text(jd.record.content.section3.title)
          $('.section3 p').text(jd.record.content.section3.text)
-         $('.section3 img').attr("src", jd.content.section3.image)
+         $('.section3 img').attr("src", jd.record.content.section3.image)
          // Content Section 4
          $('.section4 h2').text(jd.record.content.section4.title)
          $('.section4 p').text(jd.record.content.section4.text)
