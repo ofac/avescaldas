@@ -1,68 +1,71 @@
 {
-    "menu": {
-        "option1": "Proyecto",
-        "option2": "Ubicación",
-        "option3": "Listado de Aves",
-        "option4": "Sitios para Observación",
-        "option5": "Fotografías"
+  "menu": {
+    "option1": "Proyecto",
+    "option2": "Ubicación",
+    "option3": "Listado de Aves",
+    "option4": "Sitios para Observación",
+    "option5": "Fotografías"
+  },
+  "content": {
+    "section1": {
+      "title": "Proyectos",
+      "text": "Somos aprendices del semillero de investigación Tecnolab 4.0 pertenecientes  a la Tecnoacademia Manizales y asociados con la Empresa COTELCO; nos  dedicamos  a la identificación, observación y registro de las aves que habitan en nuestra ciudad; contribuyendo de esta manera a la mejora del Ecosistema y el fomento del ecoturismo.",
+      "image": "images/team.jpg"
     },
-    "content": {
-        "section1": {
-            "title": "Proyectos",
-            "text": "Somos dos proyectos adscritos a la Tecnoacademia y el semillero de investigación Tecnolab 4.0…",
-            "image": "images/team.jpg"
-        },
-        "section2": {
-            "title": "Ubicación",
-            "text": "Estamos ubicados en el departamento de Caldas, región centro-sur, ciudad de Manizales…",
-            "image": "images/manizales.jpg"
-        },
-        "section3": {
-            "title": "Listado de Aves",
-            "text": "Aquí conocerás el listado de algunas de las aves más reconocidas que puedes avistar en la región y su estado de conservación…",
-            "image": "images/lista-aves.png"
-        },
-        "section4": {
-            "title": "Sitios para Observar Aves",
-            "text": "Aquí encontrarás ubicados en el Mapa los diferentes sitios para realizar avistamiento en Caldas.",
-            "image": ""
-        },
-        "section5": {
-            "title": "Fotografías",
-            "text": "",
-            "image": ""
-        } 
+    "section2": {
+      "title": "Ubicación",
+      "text": "Estamos situados en el Municipio de Manizales capital del departamento de Caldas  a una altura de 2.153msnm, ubicado en el centro occidente de Colombia, en una región paisa, sobre la Cordillera Central de los Andes, cerca del Nevado del Ruiz.",
+      "image": "images/manizales.jpg"
     },
-    "photos": {
-        "photo1": {
-            "image": "images/photo01.jpg",
-            "title": "Foto 01",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-        },
-        "photo2": {
-            "image": "images/photo02.jpg",
-            "title": "Foto 02",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-        },
-        "photo3": {
-            "image": "images/photo03.jpg",
-            "title": "Foto 03",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-        },
-        "photo4": {
-            "image": "images/photo04.jpg",
-            "title": "Foto 04",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-        },
-        "photo5": {
-            "image": "images/photo05.jpg",
-            "title": "Foto 05",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-        },
-        "photo6": {
-            "image": "images/photo06.jpg",
-            "title": "Foto 06",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-        }
+    "section3": {
+      "title": "Listado de Aves",
+      "text": "Acá encontrarás un listado de aves reconocidas y el estado de conservación en que se encuentran.",
+      "image": "images/lista-aves.png"
+    },
+    "section4": {
+      "title": "Sitios para Observar Aves",
+      "text": "Encuentra la ubicación de los lugares para hacer avistamientos de aves en la región centro Sur de Caldas.",
+      "image": ""
+    },
+    "section5": {
+      "title": "Fotografías",
+      "text": "",
+      "image": ""
     }
+  },
+  "map": {
+    "code": "https://www.google.com/maps/d/u/1/embed?mid=1LNMfOfoEIhRCSBrmPTtDcY7WyVpn3lo&ehbc=2E312F&noprof=1"
+  },
+  "photos": {
+    "photo1": {
+      "image": "images/photo01.jpg",
+      "title": "Foto 01",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo2": {
+      "image": "images/photo02.jpg",
+      "title": "Foto 02",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo3": {
+      "image": "images/photo03.jpg",
+      "title": "Foto 03",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo4": {
+      "image": "images/photo04.jpg",
+      "title": "Foto 04",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo5": {
+      "image": "images/photo05.jpg",
+      "title": "Foto 05",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo6": {
+      "image": "images/photo06.jpg",
+      "title": "Foto 06",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  }
 }
