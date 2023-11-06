@@ -47,7 +47,8 @@ a#fotografias {
 }
 
 header nav.bg-green,
-a.btn-green {
+a.btn-green,
+button.btn-green {
     background-color: #82a825;
     color: #fff;
 }

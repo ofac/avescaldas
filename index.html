@@ -69,7 +69,7 @@
       
       
       
-        <div class="container-fluid container-p0">
+        <!-- <div class="container-fluid container-p0">
           <div class="row d-flex align-items-center section1">
             <div class="col-md-6 ">
                 <img src="" alt="" width="100%">
@@ -79,13 +79,13 @@
               <p class="lead"></p>
               <a href="" class="btn btn-green">+ Información</a>
             </div>
-          </div>
+          </div> -->
 
           <div class="row d-flex align-items-center section2">
               <div class="col-md-6 content">
                   <h2 class="fw-bold lh-1"></h2>
                   <p class="lead"></p>
-                    <a href="" class="btn btn-green">+ Información</a>
+                    <!-- <a href="" class="btn btn-green">+ Información</a> -->
                 </div>
                 <div class="col-md-6 ">
                     <img src="" alt="" width="100%">
@@ -99,7 +99,9 @@
             <div class="col-md-6 content">
               <h2 class="fw-bold lh-1"></h2>
               <p class="lead"></p>
-              <a href="" class="btn btn-green">+ Información</a>
+              <button type="button" class="btn btn-green" data-bs-toggle="modal" data-bs-target="#lista">
+                + Información
+              </button>
             </div>
           </div>
 
@@ -136,6 +138,27 @@
           </p>
         </footer>
       </main>
+
+
+      <!-- Modal -->
+      <div class="modal fade" id="lista" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="staticBackdropLabel">Lista de Aves Endemicas</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <object data="pdf/lista_aves.pdf" type="application/pdf" width="100%" height="500px">
+                <p>Unable to display PDF file. <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a> instead.</p>
+              </object>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
     
 
     <script src="js/jquery-3.7.1.min.js"></script>
