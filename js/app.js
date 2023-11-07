@@ -33,7 +33,7 @@ $(document).ready(function () {
         $photos = Object.entries(jd.record.photos)
         for (let i = 0; i < $photos.length; i++) {
             $cphoto = '<div class="card pt-3" style="width: 18rem;"> \
-                  <img src="'+$photos[i][1].image+'" class="card-img-top rounded-4 object-fit-cover" alt="..." height="200px"> \
+                  <a href="javascript:;" class="pop"><img src="'+$photos[i][1].image+'" class="card-img-top rounded-4 object-fit-cover" alt="..." height="200px"></a> \
                   <div class="card-body"> \
                     <h5 class="card-title">'+$photos[i][1].title+'</h5> \
                     <p class="card-text">'+$photos[i][1].text+'</p> \
@@ -52,6 +52,12 @@ $(document).ready(function () {
     $('.btn-light').click(function (e) { 
         e.preventDefault()
         $(this).parent().hide()
+    })
+
+
+    $('body').on('click', '.pop', function() {
+        $('.imagepreview').attr('src', $(this).find('img').attr('src'))
+        $('#imagemodal').modal('show')  
     })
 
     $('.owl-carousel').owlCarousel({
