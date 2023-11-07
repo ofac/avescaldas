@@ -34,7 +34,7 @@
     }
   },
   "map": {
-    "code": "https://www.google.com/maps/d/u/1/embed?mid=1LNMfOfoEIhRCSBrmPTtDcY7WyVpn3lo&ehbc=2E312F&noprof=1"
+    "code": "https://www.google.com/maps/d/u/1/embed?mid=1LIb9GlCAIaiUNXMeivgokxngL2eka9U&ehbc=2E312F&noprof=1"
   },
   "photos": {
     "photo1": {
@@ -65,6 +65,116 @@
     "photo6": {
       "image": "images/photo06.jpg",
       "title": "Foto 06",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo7": {
+      "image": "images/photo07.jpg",
+      "title": "Foto 07",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo8": {
+      "image": "images/photo08.jpg",
+      "title": "Foto 08",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo9": {
+      "image": "images/photo09.jpg",
+      "title": "Foto 09",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo10": {
+      "image": "images/photo10.jpg",
+      "title": "Foto 10",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo11": {
+      "image": "images/photo11.jpg",
+      "title": "Foto 11",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo12": {
+      "image": "images/photo12.jpg",
+      "title": "Foto 12",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo13": {
+      "image": "images/photo13.jpg",
+      "title": "Foto 13",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo14": {
+      "image": "images/photo14.jpg",
+      "title": "Foto 14",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo15": {
+      "image": "images/photo15.jpg",
+      "title": "Foto 15",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo16": {
+      "image": "images/photo16.jpg",
+      "title": "Foto 16",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo17": {
+      "image": "images/photo17.jpg",
+      "title": "Foto 17",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo18": {
+      "image": "images/photo18.jpg",
+      "title": "Foto 18",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo19": {
+      "image": "images/photo19.jpg",
+      "title": "Foto 19",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo20": {
+      "image": "images/photo20.jpg",
+      "title": "Foto 20",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo21": {
+      "image": "images/photo21.jpg",
+      "title": "Foto 21",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo22": {
+      "image": "images/photo22.jpg",
+      "title": "Foto 22",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo23": {
+      "image": "images/photo23.jpg",
+      "title": "Foto 23",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo24": {
+      "image": "images/photo24.jpg",
+      "title": "Foto 24",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo25": {
+      "image": "images/photo25.jpg",
+      "title": "Foto 25",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo26": {
+      "image": "images/photo26.jpg",
+      "title": "Foto 26",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo27": {
+      "image": "images/photo27.jpg",
+      "title": "Foto 27",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "photo28": {
+      "image": "images/photo28.jpg",
+      "title": "Foto 28",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     }
   }

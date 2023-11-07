@@ -17,18 +17,20 @@ a#fotografias {
     z-index: 9999;
 }
 
-
-a#ubicacion {
+a#proyecto {
     top: 604px;
 }
+a#ubicacion {
+    top: 1236px;
+}
 a#listado {
-    top: 1020px;
+    top: 1804px;
 }
 a#sitios {
-    top: 1574px;
+    top: 2562px;
 }
 a#fotografias {
-    top: 2562px;
+    top: 3162px;
 }
 
 .container-fluid.container-p0 {
@@ -105,16 +107,19 @@ footer hr {
 }
 
 @media (max-width: 720px) {
+    a#proyecto {
+        top: 340px;
+    }
     a#ubicacion {
-        top: 330px;
+        top: 990px;
     }
     a#listado {
-        top: 980px;
+        top: 1600px;
     }
     a#sitios {
-        top: 1696px;
+        top: 2374px;
     }
     a#fotografias {
-        top: 2294px;
+        top: 2990px;
     }
 }
