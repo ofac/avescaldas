@@ -39,143 +39,143 @@
   "photos": {
     "photo1": {
       "image": "images/photo01.jpg",
-      "title": "Foto 01",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Valentina Castro y Mariana Isaza",
+      "text": "NOMBRE COMÚN: Chamón común y Gorrión copetón o afrechero. NOMBRE CIENTÍFICO: Molothrus bonariensis y Zonotrichia capensis"
     },
     "photo2": {
       "image": "images/photo02.jpg",
-      "title": "Foto 02",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Luisa Fernanda Giraldo Montoya",
+      "text": "NOMBRE COMÚN: Afrechero, Copetón. NOMBRE CIENTÍFICO: Zonotrichia capensis"
     },
     "photo3": {
       "image": "images/photo03.jpg",
-      "title": "Foto 03",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Amazilia Verdiazul. NOMBRE CIENTÍFICO: Saucerottia saucerottei"
     },
     "photo4": {
       "image": "images/photo04.jpg",
-      "title": "Foto 04",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Valerin Sofia Valencia Moreno",
+      "text": "NOMBRE COMÚN: Avefría Tero, Alcaraván común. NOMBRE CIENTÍFICO: Vanellus chilensis"
     },
     "photo5": {
       "image": "images/photo05.jpg",
-      "title": "Foto 05",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Rafaela Agudelo Molano",
+      "text": "NOMBRE COMÚN: Barranquero Andino. NOMBRE CIENTÍFICO: Rafaela Agudelo Molano"
     },
     "photo6": {
       "image": "images/photo06.jpg",
-      "title": "Foto 06",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Bigotudo canoso. NOMBRE CIENTÍFICO: Malacoptila mystacalis"
     },
     "photo7": {
       "image": "images/photo07.jpg",
-      "title": "Foto 07",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Luisa Fernanda Giraldo Montoya",
+      "text": "NOMBRE COMÚN: Carpintero Bellotero. NOMBRE CIENTÍFICO: Melanerpes formicivorus"
     },
     "photo8": {
       "image": "images/photo08.jpg",
-      "title": "Foto 08",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Diana Elizabeth Vargas Rodríguez",
+      "text": "NOMBRE COMÚN: Carpintero Coronirrojo. NOMBRE CIENTÍFICO: Melanerpes rubricapillus "
     },
     "photo9": {
       "image": "images/photo09.jpg",
-      "title": "Foto 09",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Colibrí Nuquiblanco. NOMBRE CIENTÍFICO: Florisuga mellivora"
     },
     "photo10": {
       "image": "images/photo10.jpg",
-      "title": "Foto 10",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Luisa Fernanda Giraldo Montoya",
+      "text": "NOMBRE COMÚN: Coquito. NOMBRE CIENTÍFICO: Phimosus infuscatus"
     },
     "photo11": {
       "image": "images/photo11.jpg",
-      "title": "Foto 11",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Loro Cabeciazul. NOMBRE CIENTÍFICO: Pionus menstruus"
     },
     "photo12": {
       "image": "images/photo12.jpg",
-      "title": "Foto 12",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Mango Gorjinegro. NOMBRE CIENTÍFICO: Anthracothorax viridigula"
     },
     "photo13": {
       "image": "images/photo13.jpg",
-      "title": "Foto 13",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Luisa Fernanda Giraldo Montoya",
+      "text": "NOMBRE COMÚN: Mirla común. NOMBRE CIENTÍFICO: Turdus fuscater"
     },
     "photo14": {
       "image": "images/photo14.jpg",
-      "title": "Foto 14",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Luisa Fernanda Giraldo Montoya",
+      "text": " NOMBRE COMÚN: Mosquero Cardenal. NOMBRE CIENTÍFICO: Pyrocephalus rubinu"
     },
     "photo15": {
       "image": "images/photo15.jpg",
-      "title": "Foto 15",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Rafaela Agudelo Molano",
+      "text": "NOMBRE COMÚN: Paloma Montaraz Cabecigrís. NOMBRE CIENTÍFICO: Leptotila plumbeiceps"
     },
     "photo16": {
       "image": "images/photo16.jpg",
-      "title": "Foto 16",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Semillero Tomeguín. NOMBRE CIENTÍFICO: Tiaris olivaceus"
     },
     "photo17": {
       "image": "images/photo17.jpg",
-      "title": "Foto 17",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Diana Elizabeth Vargas Rodríguez",
+      "text": "NOMBRE COMÚN: Tangara Azuleja. NOMBRE CIENTÍFICO: Thraupis episcopus"
     },
     "photo18": {
       "image": "images/photo18.jpg",
-      "title": "Foto 18",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Jarol Alzate Gonzalez",
+      "text": "NOMBRE COMÚN: Tirano Melancólico, Sirirí común. NOMBRE CIENTÍFICO: Tyrannus melancholicus"
     },
     "photo19": {
       "image": "images/photo19.jpg",
-      "title": "Foto 19",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Trepatroncos pardo. NOMBRE CIENTÍFICO: Dendrocincla Fuliginosa"
     },
     "photo20": {
       "image": "images/photo20.jpg",
-      "title": "Foto 20",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Keyla Ximena de la Cruz",
+      "text": "NOMBRE COMÚN: Torcaza Nagüiblanca, Tórtola común. NOMBRE CIENTÍFICO: Zenaida auriculata "
     },
     "photo21": {
       "image": "images/photo21.jpg",
-      "title": "Foto 21",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Diana Elizabeth Vargas Rodríguez",
+      "text": "NOMBRE COMÚN: Canario común. NOMBRE CIENTÍFICO: Sicalis flaveola"
     },
     "photo22": {
       "image": "images/photo22.jpg",
-      "title": "Foto 22",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Luisa Fernanda Giraldo Montoya",
+      "text": "NOMBRE COMÚN: Columbina Colorada. NOMBRE CIENTÍFICO: Columbina talpacoti"
     },
     "photo23": {
       "image": "images/photo23.jpg",
-      "title": "Foto 23",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Ermitaño Verde. NOMBRE CIENTÍFICO: Phaethornis guy"
     },
     "photo24": {
       "image": "images/photo24.jpg",
-      "title": "Foto 24",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Juan José Aristizábal Vargas",
+      "text": "NOMBRE COMÚN: Eufonia Gorgiamarilla. NOMBRE CIENTÍFICO: Euphonia laniirostris"
     },
     "photo25": {
       "image": "images/photo25.jpg",
-      "title": "Foto 25",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Diana Elizabeth Vargas Rodríguez",
+      "text": "NOMBRE COMÚN: Buitre negro americano, Gallinazo común, chulo. NOMBRE CIENTÍFICO: Coragyps atratus"
     },
     "photo26": {
       "image": "images/photo26.jpg",
-      "title": "Foto 26",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": " Fotografía: Luisa Fernanda Giraldo Montoya",
+      "text": "NOMBRE COMÚN: Golondrina Barranquera. NOMBRE CIENTÍFICO: Pygochelidon cyanoleuca"
     },
     "photo27": {
       "image": "images/photo27.jpg",
       "title": "Foto 27",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "text": "NOMBRE COMÚN: . NOMBRE CIENTÍFICO: "
     },
     "photo28": {
       "image": "images/photo28.jpg",
-      "title": "Foto 28",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      "title": "Fotografía: Sofia Castillo Higuita",
+      "text": "NOMBRE COMÚN: Zorzal Piquinegro, Mayo embarrador. NOMBRE CIENTÍFICO: Turdus ignobilis"
     }
   }
 }
